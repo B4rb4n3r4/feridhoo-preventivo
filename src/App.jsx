@@ -38,8 +38,6 @@ const traduzioni = {
       "Tasse",
       "Pulizia camera",
       "Escursioni incluse: n.01 snorkeling con mante 🦈, n.01 snorkeling con tartarughe 🐢, n.01 avvistamento delfini 🐬",
-      "n.01 ombrellone e n.02 lettini per camera in escursione",
-      "⚠️ N.B.: LE ESCURSIONI NON SONO RIMBORSABILI PER VS NO-SHOW O PER METEO AVVERSO",
     ],
     voli:"✈️ Per i *voli* possiamo supportarti tramite le nostre agenzie partner o guidarti nella prenotazione autonoma — basta chiedere!",
     chiudi:"Sono qui per qualsiasi domanda, scrivimi quando vuoi 🌴",
